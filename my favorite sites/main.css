@@ -1,0 +1,34 @@
+
+.chayns-color-mode--0  {
+    content: "normal mode";
+   
+}
+
+
+:root {
+    --mainColorD: #1e90ff;
+    --myblack: #161716;
+
+}
+
+
+.chayns-color-mode--0:before {
+    content: "normal mode";
+  }
+
+.wrapperContent {
+    overflow: hidden;
+    overflow-wrap: break-word;
+}
+
+.accordion__item{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+.img-with-text {
+    display: flex;
+}
